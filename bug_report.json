@@ -7,10 +7,10 @@
                      "3": "Tap on the screen outside the pop-up"
                     },
   "Expected_result": "Pop-up doesn't close",
-  "Actual result":   "Pop-up closes",
+  "Actual_result":   "Pop-up closes",
   "Environment":    {
                       "Device_type":      "Xiaomi 11",
                       "OS":               "Android 12, MIUI 12.5",
-                      "Software version": "1.2"
+                      "Software_version": "1.2"
                     }
 }
